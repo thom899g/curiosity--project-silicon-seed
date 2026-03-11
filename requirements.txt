@@ -1,0 +1,8 @@
+firebase-admin
+ccxt
+web3
+python-dotenv
+flask
+pandas
+numpy
+scikit-learn
